@@ -1,0 +1,25 @@
+[33mcommit fb4599143b904983d8b24e6da27bd53af9b435f3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Tema Jozias <temajozias@gmail.com>
+Date:   Fri Feb 7 04:57:28 2025 +0100
+
+    Revert "Exam 3 results"
+    
+    This reverts commit 88422ed720deec53ceb0c6000465715d496833fe.
+
+[33mcommit 88422ed720deec53ceb0c6000465715d496833fe[m
+Author: Tema Jozias <temajozias@gmail.com>
+Date:   Fri Feb 7 04:47:24 2025 +0100
+
+    Exam 3 results
+
+[33mcommit 2d98870294231c311af31064c0702aa16e887c82[m
+Author: Tema Jozias <temajozias@gmail.com>
+Date:   Thu Feb 6 13:29:35 2025 +0100
+
+    Exam 2 results
+
+[33mcommit 9ecbba49b81f530ca21972a3bcc653b497090825[m
+Author: Tema Jozias <temajozias@gmail.com>
+Date:   Thu Feb 6 13:15:16 2025 +0100
+
+    This is the initial file
